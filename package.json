@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "seed:jobs": "npm --prefix apptracker run seed:jobs"
+  },
+  "dependencies": {
+    "better-auth": "^1.6.27",
+    "lucide-react": "^1.31.0",
+    "mangodb": "^1.0.0",
+    "mongoose": "^9.9.2"
+  }
+}
